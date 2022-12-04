@@ -1,5 +1,7 @@
 # Welcome to MkDocs
 
+Hello there!
+
 For full documentation visit us at: [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
